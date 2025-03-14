@@ -62,3 +62,5 @@ Je serai ravi de recevoir vos commentaires, suggestions ou questions. N'hésitez
 ## 🌟🌟 Remerciements 🌟🌟 
 
 Un grand merci à mes formateurs, collègues et mentors pour leur soutien tout au long de ma formation. Ce projet est un point important de mon parcours en tant que développeur et intégrateur web. Je suis impatient de réaliser d'autres projets et de continuer à apprendre et à grandir dans ce domaine. 🚀
+
+![Bannière Kawaii](https://i.postimg.cc/zfZ69h1h/DALL-E-2025-03-14-12-55-20-A-heartfelt-kawaii-style-banner-featuring-a-cheerful-developer-characte.webp)
