@@ -1,5 +1,5 @@
 
-![Bannière Kawaii](https://ton-url-ici.com/ton-image-kawaii.jpg)
+![Bannière Kawaii](https://postimg.cc/F1w8Fdd2)
 
 
 # <p align='center'>Projet - Formation Développeur Intégrateur</p>
@@ -55,10 +55,10 @@ Je serai ravi de recevoir vos commentaires, suggestions ou questions. N'hésitez
 
 ### Contact
 
-- **Email** : monemail@example.com
+- **Email** : Loicwr19@gmail.com
 - **LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/in/ton-nom)
-- **GitHub** : [Mon GitHub](https://github.com/ton-utilisateur)
+- **GitHub** : [Loicwr](https://github.com/Loicwr)
 
-## 🌟 Remerciements
+## 🌟🌟 Remerciements 🌟🌟 
 
 Un grand merci à mes formateurs, collègues et mentors pour leur soutien tout au long de ma formation. Ce projet est un point important de mon parcours en tant que développeur et intégrateur web. Je suis impatient de réaliser d'autres projets et de continuer à apprendre et à grandir dans ce domaine. 🚀
