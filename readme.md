@@ -1,5 +1,5 @@
 
-![Bannière Kawaii](https://postimg.cc/F1w8Fdd2)
+![Bannière Kawaii](https://i.postimg.cc/QxM3bcXx/DALL-E-2025-03-14-12-50-44-A-kawaii-style-banner-featuring-a-cute-laptop-with-a-smiling-face-surr.webp)
 
 
 # <p align='center'>Projet - Formation Développeur Intégrateur</p>
